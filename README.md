@@ -1,4 +1,4 @@
-## Dream City skin v1.1. for b2evolution CMS blog.
+## Dream City skin v5.1. for b2evolution CMS blog.
 
 <img src="skinshot.png"/>
 
