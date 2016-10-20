@@ -233,7 +233,7 @@ div.featured_post .title {
 
 #menu {
 	float: right;
-	max-width: 630px;
+	max-width: 600px;
 }
 
 #menu ul {
@@ -241,11 +241,11 @@ div.featured_post .title {
 	padding: 68px 65px 0 0;
 	list-style: none;
 	line-height: normal;
+	text-align: right;
 }
 
 #menu li {
-	display: inline;
-	float: left;
+	display: inline-block;
 }
 
 #menu a {
@@ -274,7 +274,7 @@ div.featured_post .title {
 #content {
 	float: left;
 	width: 555px;
-	padding: 0 0 0 36px;
+	padding: 40px 0 0 36px;
 }
 
 .title {

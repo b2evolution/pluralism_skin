@@ -2,6 +2,11 @@
 
 <img src="skinshot.png"/>
 
+#### v5.2.1
+
+- Menu layout fix
+- New skinshot
+
 #### v5.1.
 
 - Sitewide_header included for easier multi-blogging experience
